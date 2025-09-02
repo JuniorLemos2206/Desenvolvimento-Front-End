@@ -1,7 +1,6 @@
 Tabelas em Desenvolvimento via notepad++
 
 <!DOCTYPE html>
-<html>
 
 <title>Tabelas</title>
 <table>
@@ -25,4 +24,3 @@ Tabelas em Desenvolvimento via notepad++
 </tr>
 
 </table>
-</html>
