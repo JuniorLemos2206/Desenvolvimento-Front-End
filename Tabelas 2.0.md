@@ -8,7 +8,7 @@
 
 <h1>Tabela com título e cabeçário</h1>
 
-<table width="40%" border="1" >
+<table width="80%" border="1" >
 
 <tr>
 <th>Mês</th>
