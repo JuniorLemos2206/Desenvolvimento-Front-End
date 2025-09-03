@@ -22,6 +22,16 @@
 <td>HTML</td>
 <td>Ambiente WEB</td>
 
+<tr>
+<td>Leandro</td>
+<td>HTML</td>
+<td>Ambiente WEB</td>
+
+  <tr>
+<td>Geisa</td>
+<td>HTML</td>
+<td>Ambiente WEB</td>
+    
 </table>
 
 <!-- tabela com rowspan -->
